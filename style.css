@@ -1,0 +1,58 @@
+/* GENERAL */
+body {
+  font-family: "Poppins", sans-serif;
+}
+/* END GENERAL */
+
+/* NAVBAR */
+.navbar {
+  margin: 60px;
+  padding: 0;
+}
+.navbar-brand {
+  background-size: cover;
+}
+.nav-item {
+  margin-right: 30px;
+}
+.nav-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #232631;
+}
+#home {
+  border-bottom: 2px solid #5a4fcf;
+}
+#about-us {
+  margin-right: 0;
+}
+#form-navbar > img {
+  position: absolute;
+}
+#input-navbar {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #858585;
+  align-items: center;
+  gap: 10px;
+  width: 322px;
+  height: 56px;
+  background: #ffffff;
+  border-radius: 12px;
+}
+#button-login {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #5a4fcf;
+  align-items: center;
+  gap: 10px;
+  width: 104px;
+  height: 56px;
+  background: rgba(90, 79, 207, 0.1);
+  border: rgba(90, 79, 207, 0.1);
+  border-radius: 12px;
+}
+/* END NAVBAR */
