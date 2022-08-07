@@ -1,12 +1,14 @@
 /* GENERAL */
 body {
   font-family: "Poppins", sans-serif;
+  padding-left: 60px;
+  padding-right: 60px;
 }
 /* END GENERAL */
 
 /* NAVBAR */
 .navbar {
-  margin: 60px;
+  margin-top: 60px;
   padding: 0;
 }
 .navbar-brand {
@@ -56,3 +58,313 @@ body {
   border-radius: 12px;
 }
 /* END NAVBAR */
+
+/* BANNER */
+#banner {
+  margin-top: 60px;
+  margin-right: -60px;
+}
+#info-resto {
+  width: 390px;
+  height: 297px;
+  padding: 24px;
+  border-radius: 24px;
+}
+#rate > i {
+  color: #ffb800;
+  font-style: normal;
+}
+#rate > span {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #656565;
+}
+#info-resto-banner > h2 {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 33px;
+  color: #232631;
+  line-height: 1.5;
+}
+#info-resto-banner {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #656565;
+  line-height: 0.8;
+}
+#info-resto-banner > i {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 0.8;
+}
+#info-resto > button {
+  margin-top: 50px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #232631;
+  align-items: center;
+  padding: 16px 28px;
+  width: 226px;
+  height: 56px;
+  background: #fdc886;
+  border: #fdc886;
+  border-radius: 12px;
+}
+#special-info {
+  margin-top: 12px;
+}
+#special-info > i {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #656565;
+}
+#banner-2 {
+  margin-left: 80px;
+}
+/* END BANNER */
+
+/* WHY US */
+#why-us {
+  margin-top: 120px;
+}
+#title-why-us > p {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #5a4fcf;
+}
+#title-why-us > h1 {
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 42px;
+  text-align: center;
+  color: #232631;
+}
+#cards-why-us {
+  margin-top: 41px;
+}
+.card-why-us {
+  width: 315px;
+  height: 347px;
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 35px 0 0 0;
+  text-align: center;
+}
+.card-why-us > h4 {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #232631;
+  margin-top: 35px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.card-why-us > p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #656565;
+  margin-top: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.card-why-us > button {
+  background: #fff;
+  border: #fff;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #232631;
+  margin-top: 40px;
+  height: 72px;
+}
+#button-why-us-active {
+  margin-top: 40px;
+  width: 100%;
+  height: 72px;
+  background: #fdc886;
+  border: #fdc886;
+  border-radius: 12px 12px 24px 24px;
+}
+/* END WHY US */
+
+/* POPULAR RESTAURANTS */
+#popular-restaurants {
+  margin-top: 120px;
+}
+#top-3 {
+  height: 475px;
+}
+#sub-title-popular-restaurant {
+  margin-top: 87px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #5a4fcf;
+}
+#title-popular-restaurant {
+  margin-top: 6px;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 42px;
+  color: #232631;
+}
+#article-popular-restaurant {
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #656565;
+  max-width: 360px;
+}
+#info-popular-restaurant {
+  position: absolute;
+  width: 352px;
+  height: 131px;
+  background: #ffffff;
+  border-radius: 24px;
+  margin-top: 320px;
+  margin-left: 24px;
+  padding: 24px;
+}
+#info-popular-restaurant > div > h4 {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #232631;
+  align-items: center;
+  padding-top: 5px;
+}
+#info-popular-restaurant > div > button {
+  width: 36px;
+  height: 36px;
+  background: #fdc886;
+  border: #fdc886;
+  border-radius: 12px;
+}
+#info-popular-restaurant > i {
+  font-style: normal;
+}
+#img-popular-restaurant-1 {
+  margin-right: 15px;
+}
+#img-popular-restaurant-2 {
+  margin-right: 15px;
+}
+#top-3 > button {
+  margin-top: 56px;
+  padding: 16px 28px;
+  width: 238px;
+  height: 56px;
+  background: #fdc886;
+  border: #fdc886;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #232631;
+}
+/* END POPULAR RESTAURANTS */
+
+/* RESTAURANTS NEAR YOU */
+#restaurants-near-you {
+  margin-top: 120px;
+}
+#restaurants-near-you > div > div > p {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #5a4fcf;
+}
+#restaurants-near-you > div > div > h2 {
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 42px;
+  color: #232631;
+  line-height: 0.7;
+}
+#restaurants-near-you > div > div > button {
+  width: 252px;
+  height: 64px;
+  background: #f2f2f2;
+  border: #f2f2f2;
+  border-radius: 12px;
+}
+#restaurants-near-you > div > div > button > i > select {
+  background: #f2f2f2;
+  border: #f2f2f2;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #656565;
+}
+#cards-restaurants-near {
+  margin-top: 34px;
+}
+.img-restaurants-near {
+  border-radius: 24px;
+}
+.info-restaurants-near {
+  position: absolute;
+  width: 379px;
+  height: 134px;
+  background: #ffffff;
+  border-radius: 24px;
+  margin-top: 248px;
+  margin-left: 24px;
+  padding: 24px;
+}
+.info-restaurants-near > div > h4 {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #232631;
+  align-items: center;
+  padding-top: 5px;
+}
+.info-restaurants-near > div > button {
+  width: 36px;
+  height: 36px;
+  background: #fdc886;
+  border: #fdc886;
+  border-radius: 12px;
+}
+.info-restaurants-near > p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #656565;
+}
+#cards-restaurants-near > button {
+  margin-top: 56px;
+  margin-bottom: 56px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #232631;
+  width: 238px;
+  height: 56px;
+  background: #fdc886;
+  border: #fdc886;
+  border-radius: 12px;
+}
+/* END RESTAURANTS NEAR YOU */
+
+/* * {
+  border: solid red;
+} */
