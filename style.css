@@ -352,7 +352,6 @@ body {
 }
 #cards-restaurants-near > button {
   margin-top: 56px;
-  margin-bottom: 56px;
   font-weight: 600;
   font-size: 16px;
   line-height: 24px;
@@ -365,6 +364,154 @@ body {
 }
 /* END RESTAURANTS NEAR YOU */
 
-/* * {
-  border: solid red;
-} */
+/* TOP 4 CHEFS */
+#top-4-chefs {
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+.profil-chef {
+  position: absolute;
+}
+#experience {
+  margin-top: 40px;
+  margin-left: 481px;
+  padding: 30px 50px;
+  width: 179px;
+  height: 203px;
+  background: #ffffff;
+  box-shadow: 8px 8px 25px rgba(102, 102, 102, 0.04);
+  border-radius: 24px;
+}
+#experience > h4 {
+  margin-top: 12px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #232631;
+}
+#experience > p {
+  line-height: 0.5 !important;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #656565;
+}
+#at-restaurant {
+  margin-top: 628px;
+  padding: 24px;
+  width: 330px;
+  height: 180px;
+  background: #ffffff;
+  box-shadow: -8px 8px 25px rgba(102, 102, 102, 0.04);
+  border-radius: 24px;
+}
+#at-restaurant > img {
+  margin-right: 12px;
+}
+#at-restaurant > div > .paragraph {
+  margin-top: 14px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #656565;
+}
+#at-restaurant > div > .title {
+  margin-top: -10px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #232631;
+}
+#at-restaurant > div > a {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 45px;
+  color: #fdc886;
+}
+#image-chef {
+  margin-left: 60px;
+}
+#col-top-4-chefs > p {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  text-transform: uppercase;
+  color: #5a4fcf;
+}
+#col-top-4-chefs > h1 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+  text-transform: capitalize;
+  color: #232631;
+}
+#first-chef {
+  padding: 24px;
+  margin-top: 32px;
+  height: 141px;
+  background: #ffffff;
+  border-radius: 24px;
+}
+#first-chef > p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #656565;
+}
+#first-chef > h3 {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 33px;
+  color: #232631;
+}
+#first-chef > i {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  font-style: normal;
+  color: #656565;
+}
+.three-chefs {
+  padding: 24px;
+  margin-top: 20px;
+  height: 141px;
+  border-radius: 24px;
+}
+.three-chefs > p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #656565;
+}
+.three-chefs > h3 {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 33px;
+  color: #232631;
+}
+.three-chefs > i {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  font-style: normal;
+  color: #656565;
+}
+#view-all-chef {
+  margin-top: 48px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #232631;
+  width: 186px;
+  height: 56px;
+  left: 784px;
+  top: 3585px;
+  background: #fdc886;
+  border: #fdc886;
+  border-radius: 12px;
+}
+/* END TOP 4 CHEFS */
